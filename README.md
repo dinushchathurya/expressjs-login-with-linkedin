@@ -1,6 +1,6 @@
 # Node.js LinkedIn Authentication with Passport 
 
-In here, I have created Facebook authentication with Passport and Node.js. 
+In here, I have created LinkedIn authentication with Passport and Node.js. 
 
 ## Requirements
 
